@@ -1,2 +1,2 @@
-# Sonic-Pussel-Game
+# Sonic-Puzzle-Game
 Puzzle Fan
